@@ -1,0 +1,1 @@
+Aqui na introdução, aprendi o que é o Git e o Github. Conheci o terminal ubuntu e aprendi a usar ele no windows, conheci os principais comandos para se usar no terminal, instalei e configurei o git entre varias outras coisas.

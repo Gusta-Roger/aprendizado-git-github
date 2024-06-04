@@ -1,0 +1,2 @@
+Aprendi que as branchs, são como se fosse um arquivo separado do arquivo original, em um exemplo simples, como se fosse um escritório, cada um faz a sua parte do trabalho em seu próprio escritório, mas na hora da entrega, todos devem entregar para o escritório do chefe, nesse caso, a branch master.
+ Então, cada um recebe uma cópia dos arquivos originais, trabalham nele, adicionam a area de staging, commitam e ai fazem o merge, entregando as alterações para a branch master.

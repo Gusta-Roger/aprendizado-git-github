@@ -1,0 +1,1 @@
+Aprendi a instalar o git direto do site deles e aprendi a configurar para que seja global (qualquer projeto) o nome e o email.

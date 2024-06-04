@@ -1,0 +1,17 @@
+Os principais comandos que eu diria, são os seguintes comandos:
+git init -- Inicia o git no nosso projeto
+
+git add nomeDoArquivo -- Adiciona o arquivo na área de 
+staging
+
+git commit -- Commita o nosso arquivo que estava na area de staging.(salva)
+
+git add origin urlDaOrigem -- Linka o nosso repositorio github com a nossa aplicação git
+
+git push origin master -- Empurra (sobe) o nosso projeto (pastas e arquivos já commitados), para o o repositorio github. (Vai pedir username e senha, na senha deve ser posto um token que permite esse acesso.)
+
+git pull origin master -- Puxa os códigos da branch master do github, para a nossa branch master do git.
+
+git branch nomeDaBranch -- Cria uma nova branch.
+
+git checkout nomeDaBranch -- Faz a nevegação entre as branchs, caso esteja na branch master e queira acessar uma outra branch para não afetar a branch original.
